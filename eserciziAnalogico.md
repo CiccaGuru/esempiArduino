@@ -1,7 +1,7 @@
-# Esercizi su input e output digitale
-# LED e pulsanti
+# Esercizi su input e output analogico
+# LED e potenziometro
 
-*Questi sono alcuni esercizi su input e output digitale. Alcuni sono più difficili, altri più facili. Per risolvere alcuni, avrai bisogno di usare i costrutti del C imparati ad informatica, come if, cicli, variabili,...*
+*Questi sono alcuni esercizi su input e output analogico. Alcuni sono più difficili, altri più facili. Per risolvere alcuni, avrai bisogno di usare i costrutti del C imparati ad informatica, come if, cicli, variabili,...*
 
 
 
